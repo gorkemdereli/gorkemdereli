@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/github-profile-header-1200x400.png" alt="Görkem Dereli — MONOFRAME WordPress Plugins and Digital Products" width="100%">
+  <img src="./github-profile-header-1200x400.png" alt="Görkem Dereli — MONOFRAME WordPress Plugins and Digital Products" width="100%">
 </p>
 
 <h1 align="center">Görkem Dereli</h1>
