@@ -28,7 +28,7 @@ My work focuses on turning real business processes into focused, maintainable di
 
 | Product | Focus |
 | --- | --- |
-| **QuotePilot** | Cost calculator and five-stage quote workflow for WordPress |
+| [**QuotePilot**](https://github.com/gorkemdereli/quotepilot-wordpress) | Cost calculator and five-stage quote workflow for WordPress |
 | **TrainPlan Member Tracker** | Member, workout, measurement, and progress management |
 | **WaveDeck** | DJ and podcast audio player for WordPress |
 | **AutoVista Inventory** | Vehicle gallery, inventory, and search experience |
@@ -51,11 +51,11 @@ My work focuses on turning real business processes into focused, maintainable di
 
 ## Featured project
 
-### QuotePilot
+### [QuotePilot](https://github.com/gorkemdereli/quotepilot-wordpress)
 
 A native WordPress cost calculator and quote workflow plugin with conditional pricing, live estimates, server-side validation, printable estimates, CSV export, privacy controls, and five starter calculators.
 
-[View the QuotePilot live showcase](https://gorkemdereli.com/plugins/quotepilot/)
+[View the GitHub repository](https://github.com/gorkemdereli/quotepilot-wordpress) · [View the live showcase](https://gorkemdereli.com/plugins/quotepilot/)
 
 ## Links
 
