@@ -1,0 +1,26 @@
+{
+  ".claude/settings.json": {
+    "mtime": 1794095524.0855453,
+    "seen": 1794097464.780294,
+    "ast_hash": "7b5615253903fe884f485fde0577e510",
+    "semantic_hash": ""
+  },
+  "CLAUDE.md": {
+    "mtime": 1794095524.0855453,
+    "seen": 1794097464.780294,
+    "ast_hash": "67d88e9d0760c3ba54c75dfd9551c1c5",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1794095523.933583,
+    "seen": 1794097464.780294,
+    "ast_hash": "6efe5ecba2474b9ba4b1716f4142d30e",
+    "semantic_hash": ""
+  },
+  "github-profile-header-1200x400.png": {
+    "mtime": 1794095523.9347167,
+    "seen": 1794097464.780294,
+    "ast_hash": "bebd99ade828e3f05d5356eea8d93cd8",
+    "semantic_hash": ""
+  }
+}
